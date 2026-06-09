@@ -1,0 +1,3 @@
+
+A neural network is a machine learning model that stacks neurons in layers and learns pattern-recognising weights and biases from data to map inputs to outputs.
+The sigmoid function is used to force weighted equations into a 0-1 "activation". You can add a number into the sigmoid function to create bias, if you only want to a region to activate meaningfully when the weighted sum is over a particular number. 
