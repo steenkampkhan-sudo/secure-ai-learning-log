@@ -20,3 +20,6 @@ gradient; For a given parameter, a measure of how much and in which direction th
 backpropagation; The algorithm that computes, for every parameter, how much it contributed to the loss (its gradient), so each can be nudged to reduce that loss.
 gradient descent; The optimisation step that adjusts each parameter a small amount in the direction that most reduces the loss, repeated until the loss stops falling.
 training; The iterative process of adjusting a model's parameters to minimise the loss, using backpropagation to find each parameter's gradient and gradient descent to step it in the loss-reducing direction.
+gradient;
+gradient descent;
+cost function;
